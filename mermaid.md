@@ -32,7 +32,7 @@ D-->>A: Dashed open arrow
    C-->D;
 ```
 
-```
+
 {% mermaid %}
 graph TD;
   A-->B;
@@ -41,4 +41,4 @@ graph TD;
   C-->D;
 {% endmermaid %}
 
-```
+
