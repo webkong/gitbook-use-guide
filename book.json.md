@@ -7,8 +7,7 @@
     "description" : "关于gitbook客户端关联本地git和本地gitbook服务的使用简介",
     "plugins": [
         "splitter",
-        "mermaid",
-        "tbfed-pagefooter"
+        "mermaid"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
