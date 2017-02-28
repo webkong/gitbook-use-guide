@@ -29,7 +29,7 @@ win 一般在 C:\Users\{username}\GitBook\Library\Import
 mac 一般在 /Users/{username}/GitBook/Library/Import 目录
 
 ```
-* 执行命令
+* 在Book目录里执行命令
 
 ```
 git config --global http.sslVerify false
