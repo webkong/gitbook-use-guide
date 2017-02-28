@@ -40,9 +40,9 @@ git remote add origin {http://192.168.255.50:8000/wangsw/test-gitbook.git}
 // 关联到remote
 ```
 
+* 在gitbook客户端修改内容都可以自动publish到git。
 
-
-
+* git库的钩子会根据新的提交来重新build成页面
 
 
 
