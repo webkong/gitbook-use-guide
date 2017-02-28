@@ -12,9 +12,7 @@
 
 ### 3.使用
 
-* 点击 New Book 新建
-
-    书写自己的内容，完成之后关联到git库
+* 点击 New Book 新建, 书写自己的内容    
 
 * 在私有gitlab [http://192.168.255.50:8000/](http://192.168.255.50:8000/) 上注册
 
@@ -40,9 +38,9 @@ git remote add origin {http://192.168.255.50:8000/wangsw/test-gitbook.git}
 // 关联到remote
 ```
 
-* 在gitbook客户端修改内容都可以自动publish到git。
+* 在gitbook客户端修改内容都可以自动publish到git（第一次会输入用户名和密码）。
 
-* git库的钩子会根据新的提交来重新build成页面
+* git库和gitbook服务之间的钩子会根据新的提交来重新build成页面
 
 
 
