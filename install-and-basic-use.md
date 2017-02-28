@@ -13,8 +13,9 @@
 ### 3.使用
 
 * 在私有gitlab上注册并新建仓库
- ![](/assets/gitlab-register.png=100*100)
-<img src="/assets/gitlab-register.png" width="200">
+
+
+
 * 点击 New Book 新建
 
 
