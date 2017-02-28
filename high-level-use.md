@@ -26,7 +26,7 @@ calibre 是格式转换插件
 ```
 wget -nv -O- https://raw.githubusercontent.com/kovidgoyal/calibre/master/setup/linux-installer.py | python -c "import sys; main=lambda x:sys.stderr.write('Download failed\n'); exec(sys.stdin.read()); main('~/opt')"
 ```
-
+'~/opt'是安装路径
 
 安装成功后就可以使用 `gitbook [options] [command]` 来使用：
 
