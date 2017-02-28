@@ -5,7 +5,7 @@
     "language" : "zh-hans",
     "links" : {
     "sidebar" : {
-        "Home" : "http://blog.webkong.cn",
+        "Custom link name" : "http://blog.webkong.cn"
         }
     }
     
