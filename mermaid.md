@@ -1,4 +1,5 @@
 ```classDiagram
+classDiagram
     Class01 <|-- AveryLongClass : Cool
     Class03 *-- Class04
     Class05 o-- Class06
@@ -23,7 +24,7 @@ C->>D: Open arrow
 D-->>A: Dashed open arrow
 ```
 
-```
+```graph
 graph TD;
     A-->B;
     A-->C;
