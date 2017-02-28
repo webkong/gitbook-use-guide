@@ -5,7 +5,7 @@
     "plugins": [
         "splitter",
         "mermaid",
-        "tbfed-pagefooter"
+        "local-pagefooter"
     ],
     "pluginsConfig": {
         "local-pagefooter": {
