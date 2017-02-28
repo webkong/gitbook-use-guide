@@ -6,7 +6,8 @@
         "splitter",
         "mermaid",
         "local-pagefooter",
-        "js-sequence-diagram"
+        "js-sequence-diagram",
+        "mermaid-full@>=0.5.1"
     ],
     "pluginsConfig": {
         "local-pagefooter": {
