@@ -4,7 +4,6 @@
     "description" : "关于gitbook客户端关联本地git和本地gitbook服务的使用简介",
     "plugins": [
         "splitter",
-        "mermaid",
         "local-pagefooter",
         "js-sequence-diagram",
         "mermaid-full@>=0.5.1"
