@@ -16,7 +16,7 @@
 
     书写自己的内容，完成之后关联到git库
 
-* 在私有gitlab上注册
+* 在私有gitlab [http://192.168.255.50:8000/](http://192.168.255.50:8000/) 上注册
 
 ![](/assets/gitlab-register.png)
 
