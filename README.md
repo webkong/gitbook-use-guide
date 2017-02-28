@@ -1,6 +1,6 @@
 # gitbook使用指南
 
-简介关于gitbook客户端关联本地git和本地gitbook服务的使用简介
+关于gitbook客户端关联本地git和本地gitbook服务的使用简介
 
 通用的操作也可以适用于gitbook.com和github.com
 
