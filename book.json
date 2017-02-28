@@ -10,7 +10,7 @@
         }
     },
     "pdf": {
-        "pageNumbers": false,
+        "pageNumbers": true,
         "fontSize": 12,
         "paperSize": "a4",
         "margin": {
@@ -19,5 +19,4 @@
             "top": 36,
             "bottom": 36
         }
-    
 }
