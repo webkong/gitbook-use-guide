@@ -1,5 +1,4 @@
-```
-classDiagram
+```classDiagram
     Class01 <|-- AveryLongClass : Cool
     Class03 *-- Class04
     Class05 o-- Class06
