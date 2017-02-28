@@ -12,7 +12,7 @@
 * NVM (可选)
 * Python2.7.1以上
    
-### 安装gitbook和calibre组件
+### 2. 安装gitbook和calibre组件
 
 ```bash
 npm install gitbook-cli -g
@@ -48,8 +48,9 @@ git:remote [source_dir] [book_id] 为书籍设置远程 git 仓库
 可以不用客户端生成Book，可以通过命令`gitbook init`在任意文件夹生成Book
 
 
+### 3. 安装插件
 
-
+参考 [http://www.cnblogs.com/zhangjk1993/p/5066771.html](http://www.cnblogs.com/zhangjk1993/p/5066771.html)
 
 
 
