@@ -2,6 +2,7 @@
     "title": "gitbook使用指南",
     "author" : "Denny",
     "description" : "关于gitbook客户端关联本地git和本地gitbook服务的使用简介",
+    "plugins": [],
     "language" : "zh-hans",
     "links" : {
     "sidebar" : {
