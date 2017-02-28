@@ -5,4 +5,5 @@
 * [高级使用](high-level-use.md)
 * [配置gitbook](gitbook.md)
 * [标配book.json](book.json.md)
+* [Mermaid使用](mermaid.md)
 
