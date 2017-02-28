@@ -21,12 +21,18 @@ calibre 是格式转换插件
 
 [https://calibre-ebook.com](https://calibre-ebook.com)
 
-或者使用命令
+或者linux使用命令
 
 ```
 wget -nv -O- https://raw.githubusercontent.com/kovidgoyal/calibre/master/setup/linux-installer.py | python -c "import sys; main=lambda x:sys.stderr.write('Download failed\n'); exec(sys.stdin.read()); main('~/opt')"
 ```
 '~/opt'是安装路径
+
+mac先装好calibre.app再使用命令
+
+```
+sudo ln -s /Applications/calibre.app/Contents/MacOS/ebook-convert /usr/local/bin
+```
 
 安装成功后就可以使用 `gitbook [options] [command]` 来使用：
 
