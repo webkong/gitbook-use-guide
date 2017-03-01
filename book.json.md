@@ -10,10 +10,11 @@
         "mermaid"
     ],
     "pluginsConfig": {
-        "tbfed-pagefooter": {
+        "local-pagefooter": {
             "copyright":"",
             "modify_label": "该文件修订时间：",
-            "modify_format": "YYYY-MM-DD HH:mm:ss"
+            "modify_format": "YYYY-MM-DD HH:mm:ss",
+            "islocal": true
         }
     },
     "language" : "zh-hans",
