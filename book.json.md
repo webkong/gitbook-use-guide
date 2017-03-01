@@ -1,6 +1,6 @@
 这个是一个标配的book.json文件
 
-```
+```js
 {
     "title": "gitbook使用指南",
     "author" : "Denny",
@@ -37,3 +37,6 @@
     }
 }
 ```
+
+
+
