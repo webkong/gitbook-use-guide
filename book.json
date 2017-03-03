@@ -5,7 +5,7 @@
     "plugins": [
         "splitter",
         "local-pagefooter",
-        "js-sequence-diagram"
+        "sequence-diagram"
     ],
     "pluginsConfig": {
         "local-pagefooter": {
