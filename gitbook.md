@@ -10,7 +10,7 @@ GitBook 插件本质上和 Node.js 包一样，因此其安装也分为全局和
 
 标准的配置文件如下：
 
-```
+```js
 // 输出目录
     // 可以被命令行覆盖
     // 不建议在 book.json 中使用该参数
@@ -92,7 +92,6 @@ GitBook 插件本质上和 Node.js 包一样，因此其安装也分为全局和
         "footerTemplate": null
     }
 }
-
 ```
 
 ### 官方插件 {#官方插件}
@@ -126,7 +125,7 @@ GitBook 官方提供了以下插件：
 
 ### 更多插件 {#更多插件}
 
-你可以在[官方插件中心](http://plugins.gitbook.com/)或者[npm](https://www.npmjs.com/search?q=gitbook-plugin)寻找更多插件。
+你可以在[官方插件中心](http://plugins.gitbook.com/\)或者[npm]\(https://www.npmjs.com/search?q=gitbook-plugin)寻找更多插件。
 
 ### 序列图插件 {#序列图插件}
 
@@ -153,7 +152,5 @@ C->>D: 箭头
 D-->>A: 虚线箭头
 ```
 
-
-  
 
 
