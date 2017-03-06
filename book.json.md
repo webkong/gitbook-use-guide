@@ -18,12 +18,6 @@
         }
     },
     "language" : "zh-hans",
-    "links" : {
-    "sidebar" : {
-        "Custom link name" : "http://blog.webkong.cn",
-        "Home" : "http://blog.webkong.cn"
-        }
-    },
     "pdf": {
         "pageNumbers": true,
         "fontSize": 12,
