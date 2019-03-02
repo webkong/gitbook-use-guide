@@ -2,22 +2,31 @@
 
 ```js
 {
-    "title": "gitbook使用指南",
-    "author" : "Denny",
-    "description" : "关于gitbook客户端关联本地git和本地gitbook服务的使用简介",
+    "title": "book",
+    "author": "webkong",
+    "description": "",
     "plugins": [
+        "-lunr", 
+        "-search",
+        "search-pro",
         "splitter",
-        "mermaid"
+        "local-pagefooter",
+        "anchor-navigation-ex"
     ],
     "pluginsConfig": {
         "local-pagefooter": {
-            "copyright":"",
-            "modify_label": "该文件修订时间：",
-            "modify_format": "YYYY-MM-DD HH:mm:ss",
+            "copyright": "webkong",
+            "modify_label": "修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm",
             "islocal": true
+        },
+        "anchor-navigation-ex": {
+            "showLevel": true,
+            "associatedWithSummary":true,
+            "multipleH1":false
         }
     },
-    "language" : "zh-hans",
+    "language": "zh-hans",
     "pdf": {
         "pageNumbers": true,
         "fontSize": 12,
